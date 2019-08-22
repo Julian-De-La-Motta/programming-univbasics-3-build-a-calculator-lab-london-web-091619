@@ -11,8 +11,6 @@ end
 
 def subtraction(num1, num2)
 puts "subtracts two numbers from each other"
-num1 = l0
-num2 = 5
 minus=num1-num2
 puts minus
 end

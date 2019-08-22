@@ -36,7 +36,7 @@ end
 def square_root(num)
   puts "returns the square root of a number"
   sqroot = Math.sqrt(81)
-  puts sqroot
+  puts sqroot.abs()
 end
 
 addition(5,4)

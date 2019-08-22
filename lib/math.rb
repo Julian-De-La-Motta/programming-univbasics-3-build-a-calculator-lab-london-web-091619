@@ -4,13 +4,13 @@
 
 
 def addition(num1, num2)
-puts "adds two numbers together"
+#puts "adds two numbers together"
 sum=num1+num2
 puts sum
 end
 
 def subtraction(num1, num2)
-puts "subtracts two numbers from each other"
+#puts "subtracts two numbers from each other"
 minus=num1-num2
 puts minus
 end

@@ -4,7 +4,7 @@
 
 
 def addition(num1, num2)
-#puts "adds two numbers together"
+puts "adds two numbers together"
 sum=num1+num2
 puts sum
 end
